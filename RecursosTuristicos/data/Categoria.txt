@@ -1,0 +1,11 @@
+C1	Manifestacionesculturales
+C2	Manifestacionesculturales
+C3	Manifestacionesculturales
+C4	Manifetacionesculturales
+C5	Manifestacionesculturales
+C6	sitios naturales
+C7	Manifestacionesculturales
+C8	sitios naturales
+C9	sitios naturales
+C10	Manifestacionesculturales
+C11	prueba
